@@ -1,0 +1,34 @@
+# Build output
+Build/
+Build-Linux/
+bin/
+obj/
+
+# Visual Studio and editor files
+.vs/
+*.user
+*.suo
+*.tmp
+
+# MagicDragon runtime data
+Config.json
+Config.lastgood.json
+*.log
+
+# Valheim save files
+*.fwl
+*.db
+*.fwl2
+*.db2
+*.chunk
+*.cache
+*.fch
+
+# Backups and diagnostic exports
+*.zip
+*.7z
+*.rar
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
