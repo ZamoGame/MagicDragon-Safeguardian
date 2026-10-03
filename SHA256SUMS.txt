@@ -1,0 +1,2 @@
+a5dac45e0cf3e62bccf990e99743e39f8e5b8b465955fbf175288c87130552a2  MagicDragon_Safeguardian.zip
+f8d1765d4191077a8e63a219053a24b938caa0c329437eaa4974051fb60fc867  MagicDragon_Safeguardian_Source_v1.0.1.zip
